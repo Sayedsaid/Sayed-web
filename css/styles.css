@@ -1,0 +1,39 @@
+/************************ Selectors tags ********************/
+body {
+  text-align: center;
+  background-color: #e4f9ff;
+}
+
+h1 {
+  color: #005086;
+}
+
+h2 {
+  color: #005086;
+}
+
+h3 {
+  color: #005086;
+}
+
+div {
+  text-align: center;
+}
+
+/************************ class tags ********************/
+.compass {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  left: 300px;
+  opacity: 0.5;
+}
+
+.degree {
+  height: 120px;
+  width: 120px;
+}
+
+.eductation {
+  text-align:
+}
