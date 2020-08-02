@@ -1,4 +1,5 @@
-/************************ Selectors tags ********************/
+/************************ tag Selectors  ********************/
+
 body {
   text-align: center;
   background-color: #e4f9ff;
@@ -20,7 +21,21 @@ div {
   text-align: center;
 }
 
-/************************ class tags ********************/
+hr {
+  border-style: dotted none none none;
+  border-color: gray;
+  border-width: 10px;
+  width: 30%; 
+}
+
+table {
+  margin: 0 auto;
+  text-align: justify;
+}
+
+
+/************************ class selectors ********************/
+
 .compass {
   height: 80px;
   width: 80px;
@@ -29,11 +44,45 @@ div {
   opacity: 0.5;
 }
 
+.earth {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  right: 300px;
+  top: 150px;
+  opacity: 0.5;
+}
+
 .degree {
   height: 120px;
   width: 120px;
 }
 
+.gis {
+  height: 150px;
+  width: 170px;
+} 
+
+.gisd {
+  height: 120px;
+  width: 180px;
+}
+
+.data {
+  height: 170px;
+  width: 200px;
+}
+
+.stack {
+  height: 180px;
+  width: 200px;
+}
+
+.career {
+  height: 120px;
+  width: 120px;
+}
+
 .eductation {
-  text-align:
+  text-align: justify;
 }
