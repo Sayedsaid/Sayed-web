@@ -3,18 +3,22 @@
 body {
   text-align: center;
   background-color: #e4f9ff;
+  font-family: 'Merriweather', serif;
 }
 
 h1 {
   color: #005086;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
   color: #005086;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
   color: #005086;
+  font-family: 'Montserrat', sans-serif;
 }
 
 div {
@@ -25,14 +29,13 @@ hr {
   border-style: dotted none none none;
   border-color: gray;
   border-width: 10px;
-  width: 30%; 
+  width: 30%;
 }
 
 table {
   margin: 0 auto;
   text-align: justify;
 }
-
 
 /************************ class selectors ********************/
 
@@ -53,6 +56,12 @@ table {
   opacity: 0.5;
 }
 
+.Name {
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  margin: 0;
+}
+
 .degree {
   height: 120px;
   width: 120px;
@@ -61,7 +70,7 @@ table {
 .gis {
   height: 150px;
   width: 170px;
-} 
+}
 
 .gisd {
   height: 120px;
